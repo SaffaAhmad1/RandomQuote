@@ -1,0 +1,9 @@
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+}
+button{
+    width: 250px;
+    height: 80px;
+}
